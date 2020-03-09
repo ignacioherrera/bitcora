@@ -1,4 +1,4 @@
-## Instalar laravel
+## Instalar
 * instalar dependencias de php con composer 
 `php composer install`
 * Instalar dependencias js con yarn o npm 
